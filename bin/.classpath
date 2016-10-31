@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|lib/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_55"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hadoop-common-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hbase-common-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hbase-hadoop-compat-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hbase-thrift-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/zookeeper-3.4.9.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hbase-client-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hbase-server-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/log4j-1.2-api-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/log4j-api-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/log4j-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/log4j-slf4j-impl-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/log4j-web-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hadoop-annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hadoop-auth-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/hbase-protocol-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/htrace-core-3.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/netty-all-4.0.23.Final.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/hadoop/share/hadoop"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/dev-www/java/HbaseQuery/lib/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
